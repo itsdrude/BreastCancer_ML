@@ -5,7 +5,7 @@
 
 ## Descripción
 
-Este proyecto fue llevado a cabo como proyecto final de la asignatura Fisica Computazionale Avanzata impartida en la Universidad de Salerno. El objetivo principal es aprender las relaciones entre datos biomédicos de pacientes con cáncer de mama para poder ofrecer una estimación de la esperanza de vida. Además, se pretende comparar un modelo de red neuronal densa programado sin el uso de librerías con un modelo que utiliza Keras de Tensorflow.
+Este proyecto fue llevado a cabo en 2023 como proyecto final de la asignatura Fisica Computazionale Avanzata impartida en la Universidad de Salerno. El objetivo principal es aprender las relaciones entre datos biomédicos de pacientes con cáncer de mama para poder ofrecer una estimación de la esperanza de vida. Además, se pretende comparar un modelo de red neuronal densa programado sin el uso de librerías con un modelo que utiliza Keras de Tensorflow.
 
 ---
 
